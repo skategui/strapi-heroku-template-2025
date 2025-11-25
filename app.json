@@ -5,7 +5,7 @@
     "strapi",
     "heroku"
   ],
-  "repository": "https://github.com/strapi/strapi-heroku-template",
+  "repository": "https://github.com/skategui/strapi-heroku-template-2025  ",
   "addons": [
    {
         "plan": "heroku-postgresql",
